@@ -1,21 +1,25 @@
 {
-  "id": "tres-zap",
-  "name": "Tres-Zap",
-  "categoryId": "inventory",
-  "description": "Stand-alone demand-driven Graphic Interface",
-  "investment_24m": "809",
-  "hostedtype": "OnPremise",
-  "licensing_cost": "37",
-  "status_color": "#00FF00",
-  "type": "InHouseDev",
-  "support_cost": "351",
-  "deployment_date": "13/2/07",
-  "end_of_maintenance": "11/8/17",
-  "department": "Engineering",
-  "status": "Active",
-  "end_of_life": "20/7/18",
-  "sme_name": "Corrianne Hek",
-  "months_to_renew_support": "10",
-  "sme_email": "Corrianne.Hek@memento.net.au",
-  "investment_number": "421"
+  "applications": [
+    {
+      "id": "tres-zap",
+      "name": "Tres-Zap",
+      "categoryId": "inventory",
+      "description": "Stand-alone demand-driven Graphic Interface",
+      "investment_24m": "809",
+      "hostedtype": "OnPremise",
+      "licensing_cost": "37",
+      "status_color": "#00FF00",
+      "type": "InHouseDev",
+      "support_cost": "351",
+      "deployment_date": "13/2/07",
+      "end_of_maintenance": "11/8/17",
+      "department": "Engineering",
+      "status": "Active",
+      "end_of_life": "20/7/18",
+      "sme_name": "Corrianne Hek",
+      "months_to_renew_support": "10",
+      "sme_email": "Corrianne.Hek@memento.net.au",
+      "investment_number": "421"
+    }
+  ]
 }
