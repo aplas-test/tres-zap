@@ -26,7 +26,6 @@
           "name": "INT-468",
           "categoryId": "59389244-3d74-4e25-9019-51854731feb4",
           "description": "Pellentesque at nulla.",
-          "sourceApplicationId": "tres-zap",
           "targetApplicationId": "hyperlocal",
           "logical_server": "B2B",
           "status_color": "#00FF00",
